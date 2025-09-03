@@ -1,14 +1,49 @@
-# Go Extension -> Manage Extensions
+# IOS Calculator Chrome Extension   <img src="icons/icon.png" alt="IOS Calculator Icon" width="50px" height="50px">
 
-<a href="https://ibb.co/wkjpjm9"><img src="https://i.ibb.co/Zj7c7Dn/1.gif" alt="1" border="0"></a>
-# 2
+This Chrome extension brings the look and feel of the iOS Calculator to your browser. Easily perform calculations in a sleek popup that mimics the iOS design.
 
-<a href="https://ibb.co/mVRpydtc"><img src="https://i.ibb.co/0Rn591ZG/2.gif" alt="2" border="0"></a>
+## Features
+- iOS-style calculator interface
+- Responsive popup window
+- Easy-to-use buttons for basic arithmetic operations
+- Lightweight and fast
 
-# 3
+## Installation
+**1. Download or clone this repository to your computer.**
 
-<a href="https://ibb.co/G31DDL1F"><img src="https://i.ibb.co/BK7JJx7w/3.gif" alt="3" border="0"></a>
+**2. Open Chrome and go to `chrome://extensions/`.**
 
-# 4
+<p align="center">
+<img src="guide/1.gif" alt="IOS Calculator Icon">
+</p>
 
-<a href="https://ibb.co/79H7R5G"><img src="https://i.ibb.co/0wkPFSf/4.gif" alt="4" border="0"></a>
+**3. Enable "Developer mode" (top right corner).**
+
+**4. Click "Load unpacked" and select the folder containing the extension files.**
+
+<p align="center">
+<img src="guide/2.gif" alt="IOS Calculator Icon">
+⏬
+<img src="guide/3.gif" alt="IOS Calculator Icon">
+</p>
+
+**5. The iOS Calculator icon will appear in your Chrome toolbar.**
+
+<p align="center">
+<img src="guide/4.gif" alt="IOS Calculator Icon">
+</p>
+
+## Usage
+- Click the extension icon in the Chrome toolbar to open the calculator popup.
+- Use the calculator as you would on an iOS device.
+
+## File Structure
+- `index.html` — Main popup HTML
+- `popup.js` — Calculator logic
+- `style.css` — iOS-inspired styles
+- `manifest.json` — Chrome extension manifest
+- `icons/` — Extension icons
+- `guide/` — GIF guides for usage
+
+## License
+This project is open source and available under the MIT License.
