@@ -10,6 +10,7 @@ This Chrome extension brings the look and feel of the iOS Calculator to your bro
 
 ## Installation
 **1. Download or clone this repository to your computer.**
+---
 
 **2. Open Chrome and go to `chrome://extensions/`.**
 
@@ -17,7 +18,11 @@ This Chrome extension brings the look and feel of the iOS Calculator to your bro
 <img src="guide/1.gif" alt="IOS Calculator Icon">
 </p>
 
+---
+
 **3. Enable "Developer mode" (top right corner).**
+
+---
 
 **4. Click "Load unpacked" and select the folder containing the extension files.**
 
@@ -27,11 +32,15 @@ This Chrome extension brings the look and feel of the iOS Calculator to your bro
 <img src="guide/3.gif" alt="IOS Calculator Icon">
 </p>
 
+---
+
 **5. The iOS Calculator icon will appear in your Chrome toolbar.**
 
 <p align="center">
 <img src="guide/4.gif" alt="IOS Calculator Icon">
 </p>
+
+---
 
 ## Usage
 - Click the extension icon in the Chrome toolbar to open the calculator popup.
@@ -43,7 +52,7 @@ This Chrome extension brings the look and feel of the iOS Calculator to your bro
 - `style.css` — iOS-inspired styles
 - `manifest.json` — Chrome extension manifest
 - `icons/` — Extension icons
-- `guide/` — GIF guides for usage
+- `guide/` — GIF guides for usage (Delete when testing)
 
 ## License
 This project is open source and available under the MIT License.
